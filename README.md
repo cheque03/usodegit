@@ -1,3 +1,3 @@
 #uso de Git
 
-|ejemplo del comando git
+Ejemplo del comando git en el nuevo documento
