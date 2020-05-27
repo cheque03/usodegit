@@ -1,6 +1,5 @@
 #uso de Git
 
-<<<<<<< HEAD
 Ejemplo del comando git en el nuevo documento
 
 
